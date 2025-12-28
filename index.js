@@ -21,8 +21,6 @@ app.all('/randomcard', randomcard);
 app.all('/cardtier', cardtier);
 app.all('/cardid', cardid);
 
-// Import scraper
-const { scrapeCards } = require('./scraper');
 
 // Define events
 const events = [
@@ -199,9 +197,6 @@ button:hover { background: #0056b3; }
   res.send(html);
 });
 
-app.listen(PORT, async () => {
+app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
-  console.log('Starting scraper...');
-  await scrapeCards();
-  console.log('Scraping complete. API ready.');
 });

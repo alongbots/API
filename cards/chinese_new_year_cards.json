@@ -1,0 +1,2977 @@
+[
+  {
+    "id": "63d50e00d738324e95372590",
+    "tier": "6",
+    "title": "Zenith Greyrat",
+    "source": "Mushoku Tensei",
+    "image": "https://cdn.shoob.gg/images/eventcards/6/a6ec0ce7eb768fb60afa5aaa434f2ab9cba3da6ef62413a649573bc63560f501.gif"
+  },
+  {
+    "id": "63d50e00d738324e95372588",
+    "tier": "6",
+    "title": "Ginko Sora",
+    "source": "Ryuuou no Oshigoto!",
+    "image": "https://cdn.shoob.gg/images/eventcards/6/ca430f114108ccedbc9a187f26d5d52d2f13e0349172a09e3ed3807dfe64eea6.gif"
+  },
+  {
+    "id": "63d50e00d738324e95372580",
+    "tier": "5",
+    "title": "Yui Kotegawa",
+    "source": "To Love Ru",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/e77dcab72e010630701566b166883697db717953bf76a762b42effecd6a19ce1.png"
+  },
+  {
+    "id": "63d50e00d738324e95372578",
+    "tier": "5",
+    "title": "Shoto Todoroki",
+    "source": "My Hero Academia",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/ca06f91fb9921c9eb5eca3c3c734cb3013afc7dca36402be71fb665cb11562fa.png"
+  },
+  {
+    "id": "63d50e00d738324e95372574",
+    "tier": "6",
+    "title": "Power",
+    "source": "Chainsaw Man",
+    "image": "https://cdn.shoob.gg/images/eventcards/6/95632b4bab56dd7a7cfbbde8b29a1cab374179e15100f529878c553d747afad9.gif"
+  },
+  {
+    "id": "63d50e00d738324e95372570",
+    "tier": "5",
+    "title": "Saeko Busujima",
+    "source": "Highschool of the Dead",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/708a8f2f361e40a5476cf608408054bc8b2af539ad15acbd8a36a9fb94c61a58.png"
+  },
+  {
+    "id": "63d50e00d738324e9537256c",
+    "tier": "6",
+    "title": "Hyouma Chigiri",
+    "source": "Blue Lock",
+    "image": "https://cdn.shoob.gg/images/eventcards/6/c2519c6c46c646dace5730c9b9d61559e548214e7260a69a86d6d63afd6e471f.gif"
+  },
+  {
+    "id": "63d50e00d738324e95372568",
+    "tier": "4",
+    "title": "2B",
+    "source": "NieR: Automata",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/e876bb68abe541810b0cd64807e1f11ef50a19aa50789874e9408ad07b95e617.png"
+  },
+  {
+    "id": "63d50e00d738324e95372564",
+    "tier": "5",
+    "title": "Ami Kawashima",
+    "source": "Toradora!",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/92e03e81d8d9f0bf3e97ac052af474c963a0b42a76f59301a7aa1af4b9249dc7.png"
+  },
+  {
+    "id": "63d50e00d738324e95372560",
+    "tier": "6",
+    "title": "Ranma Saotome",
+    "source": "Ranma 12",
+    "image": "https://cdn.shoob.gg/images/eventcards/6/ee9985c08151369956a05d04c3256334fb58872ba13475e1c963e47ab4691a20.gif"
+  },
+  {
+    "id": "63d50e00d738324e9537255c",
+    "tier": "5",
+    "title": "Ryunosuke Akutagawa",
+    "source": "Bungou Stray Dogs",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/d472a3c4a7ed494afedcef726829c7690afe48cd782edbf1c7c6fc005c9e8e5e.png"
+  },
+  {
+    "id": "63d50e00d738324e95372554",
+    "tier": "5",
+    "title": "Wuxian Wei x Wangji Lan",
+    "source": "Mo Dao Zu Shi",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/be028665c282a9277c649773951eb9b43fb28b47f1583e77ef0f20d497c0a529.png"
+  },
+  {
+    "id": "63d50e00d738324e95372550",
+    "tier": "5",
+    "title": "Gin Ichimaru",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/633226486bbc9c148b91afd2bd4597ee181a4d2a8db42b957e07f33de16835be.png"
+  },
+  {
+    "id": "63d50e00d738324e9537254c",
+    "tier": "1",
+    "title": "Mukuro Hoshimiya",
+    "source": "Date A Live",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/17ce30b72010734e1113f817d151eb135a441f01d52454b2ea8829709ea5a145.png"
+  },
+  {
+    "id": "63d50e00d738324e95372548",
+    "tier": "2",
+    "title": "Sinon",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/7273fe84544462dba4ec8d424453736257fb20deae5f15bd40fce4f7a2f00da6.png"
+  },
+  {
+    "id": "63d50e00d738324e95372544",
+    "tier": "1",
+    "title": "Itachi Uchiha",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/ecbc6f4313eef2ddd6c9a1cf606f9bddda51aebf5912f5ae137641b9173c2d7d.png"
+  },
+  {
+    "id": "63d50e00d738324e95372540",
+    "tier": "1",
+    "title": "Mitsuki Nase",
+    "source": "Beyond the Boundary",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/2140b60b32a28e4e3aa89fca12d04816c59b94139b6419c687c0a311c5e33134.png"
+  },
+  {
+    "id": "63d50e00d738324e9537253c",
+    "tier": "1",
+    "title": "Lisbeth",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1ae2c59ad4e8787e1714841f8d49531d32108fb3b5ff779c6ae1822b656f6f53.png"
+  },
+  {
+    "id": "63d50e00d738324e95372538",
+    "tier": "1",
+    "title": "Frolaytia Capistrano",
+    "source": "Heavy Object",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/48a3cc7d1e4dba1e13a24e2adfe356d1115e88ffd7157e39d3da0f0efd670f56.png"
+  },
+  {
+    "id": "63d50e00d738324e95372534",
+    "tier": "1",
+    "title": "Syaro Kirima",
+    "source": "Is The Order A Rabbit?",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/aa966ff692cad1ddfaa283c6f59dbc20f8f7ead8ff4c57a63ea0a90304b30016.png"
+  },
+  {
+    "id": "63d50e00d738324e95372530",
+    "tier": "1",
+    "title": "Albedo",
+    "source": "Overlord",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/5a7b91b3f639ed6aa1578dd768f60e03f902744989a21138621bc918ca654ebc.png"
+  },
+  {
+    "id": "63d50e00d738324e9537252c",
+    "tier": "1",
+    "title": "Hinata Hyuga",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/47aa0cc4dd22b86b1d60738593feb23153df69a7fc5703230a0136275aa30b0d.png"
+  },
+  {
+    "id": "63d50e00d738324e95372520",
+    "tier": "5",
+    "title": "Raiden Shogun",
+    "source": "Genshin Impact",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/058087e22dd43fba18f0f8881edffb0ad0f3d837429509c4a69e7820bd67847a.png"
+  },
+  {
+    "id": "63d50e00d738324e9537251c",
+    "tier": "5",
+    "title": "Ranpo Edogawa",
+    "source": "Bungou Stray Dogs",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/0fdf854e4fa7851d7539adca3d58f032beebeae9a4bc2e8743d52d7b4da0786f.png"
+  },
+  {
+    "id": "63d50e00d738324e95372518",
+    "tier": "1",
+    "title": "Souma Kanzaki",
+    "source": "Ensemble Stars!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/807e92ca5c1244747f8321ff6f0fc6e4448c1bed6564f245ad279655c852d0ee.png"
+  },
+  {
+    "id": "63d50e00d738324e95372510",
+    "tier": "1",
+    "title": "Yuki Rurikawa",
+    "source": "A3!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/9d153f85fe308335505b0fa9ad9909e780926937be967e481c55f204869746f8.png"
+  },
+  {
+    "id": "63d50e00d738324e95372508",
+    "tier": "1",
+    "title": "Mirai Kuriyama",
+    "source": "Beyond the Boundary",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/c2c3edea6c709f8110ebc04847cd3e1d822fa76c61175810d048542a3830a3c8.png"
+  },
+  {
+    "id": "63d50e00d738324e95372504",
+    "tier": "1",
+    "title": "Nene Sakura",
+    "source": "New Game!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/eb76dd858123d8d6b9682a9569232d5b25108338c4dcc6b4d653927d7724785d.png"
+  },
+  {
+    "id": "63d50e00d738324e95372500",
+    "tier": "1",
+    "title": "Mumei",
+    "source": "Kabaneri of the Iron Fortress",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/18891960da3c0e5465b78ad5aeb7fb0678836eed0351aac6755c1978e6d55914.png"
+  },
+  {
+    "id": "63d50e00d738324e953724fc",
+    "tier": "1",
+    "title": "Rin Shiretoko",
+    "source": "High School Fleet",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/94f2a62e81f88503bcf717237410c65a460077cca156f4eb3303d055d5d531ab.png"
+  },
+  {
+    "id": "63d50e00d738324e953724e8",
+    "tier": "1",
+    "title": "Kyaru",
+    "source": "Princess Connect! Re:Dive",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/8afea61a0b1a01d3fc93dc84179de51fbae59c15083dea3d8b25faa0e8af83c6.png"
+  },
+  {
+    "id": "63d50e00d738324e953724e4",
+    "tier": "1",
+    "title": "Hiyori Harusaki",
+    "source": "Princess Connect! Re:Dive",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1d735654a626fa0e35e0ad4fc163f1c8665b227aa3100667576e6272f015f402.png"
+  },
+  {
+    "id": "63d50e00d738324e953724e0",
+    "tier": "4",
+    "title": "Eucliwood Hellscythe",
+    "source": "Kore wa Zombie Desu ka?",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/21835b7c0278742af6f5a0efab1a16e1674887b8bb8c36c7d27207ccf0e7cf33.png"
+  },
+  {
+    "id": "63d50e00d738324e953724dc",
+    "tier": "2",
+    "title": "Rena Ryuuguu",
+    "source": "Higurashi no Naku Koro ni",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/e992fefcabd873ba6431bef9b33d5348a43e6fdd061b4903a8a4980f96c2b2c6.png"
+  },
+  {
+    "id": "63d50e00d738324e953724d8",
+    "tier": "1",
+    "title": "Pecorine",
+    "source": "Princess Connect! Re: Dive",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/008fab63bde8728a71674fdb7851edf9d43cd76ce1e5b299c60aacc3e03c6377.png"
+  },
+  {
+    "id": "63d50e00d738324e953724d4",
+    "tier": "1",
+    "title": "Yui Kusano",
+    "source": "Princess Connect! Re:Dive",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/6e25cceccc14b190bc67317a4112c7774d7748ece753f5716a712daef1664b50.png"
+  },
+  {
+    "id": "63d50e00d738324e953724d0",
+    "tier": "1",
+    "title": "Umaru Doma",
+    "source": "Himouto! Umaru-chan",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/c3e90da50de7f580222b4f64999d2a49c7b6de92c52f055414a065de8a057acd.png"
+  },
+  {
+    "id": "63d50e00d738324e953724cc",
+    "tier": "1",
+    "title": "Xenovia Quarta",
+    "source": "High School DxD",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/ddf139b305d7391f3a08f6c07bc4806e8d01c63ce4b581700bd709e34276030b.png"
+  },
+  {
+    "id": "63d50e00d738324e953724c8",
+    "tier": "5",
+    "title": "Hiyori Kozuki",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/8703b31dcdb671e330f220c4a9b23ea93fa6f996654698ff9f15be2235595b04.png"
+  },
+  {
+    "id": "63d50e00d738324e953724c4",
+    "tier": "5",
+    "title": "Chuuya Nakahara",
+    "source": "Bungou Stray Dogs",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/607ff5adaf8f4efda92b1b1e87aaf74f340e2f827ca64e4b229da0d4e99fb3a0.png"
+  },
+  {
+    "id": "63d50e00d738324e953724c0",
+    "tier": "6",
+    "title": "Nino Nakano",
+    "source": "The Quintessential Quintuplets",
+    "image": "https://cdn.shoob.gg/images/eventcards/6/1caf60e4809d46fd728ac64ce9cbb3cce3a1a50049d97f30a167ab25f36797ea.gif"
+  },
+  {
+    "id": "63d50e00d738324e953724bc",
+    "tier": "1",
+    "title": "Lucy Heartfilia",
+    "source": "Fairy Tail",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/665694ab92b68dde2d1c5ba5edd447cf4c116df3e01aa6a3b19278753c336482.png"
+  },
+  {
+    "id": "63d50e00d738324e953724b8",
+    "tier": "1",
+    "title": "Rikka Takarada",
+    "source": "SSSS.Gridman",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/3a7fb9356a0ab52d246b1cf9732d49ce860335b6c203ff632f2241b9cb5ac1d2.png"
+  },
+  {
+    "id": "63d50e00d738324e953724b0",
+    "tier": "1",
+    "title": "Shion Sonozaki",
+    "source": "Higurashi no Naku Koro ni",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/7f0257a4fdc65b44f46380262cf7725672a2cb66d9d43c565085f23dbb9b4f85.png"
+  },
+  {
+    "id": "63d50e00d738324e953724ac",
+    "tier": "1",
+    "title": "Leafa",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/0dbc554620debba111cf9c9dd847fc746a3783ccc6faa1eab8861e6bee2eadec.png"
+  },
+  {
+    "id": "63d50e00d738324e953724a8",
+    "tier": "1",
+    "title": "Ruka Sarashina",
+    "source": "Kanojo Okarishimasu",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/daa367a80e4ffb9efabd5c262c4d3727169a5f540d0bed021c5c480fcc2747b4.png"
+  },
+  {
+    "id": "63d50e00d738324e953724a4",
+    "tier": "2",
+    "title": "Erza Scarlet",
+    "source": "Fairy Tail",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/29e201eb96aeb4e3360ab33b120893c7f55c2781f414faa299d9276616ab0ef3.png"
+  },
+  {
+    "id": "63d50e00d738324e953724a0",
+    "tier": "1",
+    "title": "Rias Gremory",
+    "source": "High School DxD",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/56bdd3918217982f697a2a09f8b90dee5f95a522c74c3ff949ad22f661e06948.png"
+  },
+  {
+    "id": "63d50e00d738324e9537249c",
+    "tier": "1",
+    "title": "Ravel Phenex",
+    "source": "High School DxD",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/30ec242a6436f282ea3af29fac98a3e8374286886cdbb622f9e212621f2e3b9c.png"
+  },
+  {
+    "id": "63d50e00d738324e95372498",
+    "tier": "1",
+    "title": "Yukina Himeragi",
+    "source": "Strike the Blood",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/e3d8dfb5466b83f68f7f415f6e673312feab6f6bd41cf6f2c95ae3dad7780048.png"
+  },
+  {
+    "id": "63d50e00d738324e95372490",
+    "tier": "1",
+    "title": "Tomoe Meguri",
+    "source": "High School DxD",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/61ab92a4e541fb391d4f4570ce6e345cc656f0091269e050cedd7e63b7a2b4e0.png"
+  },
+  {
+    "id": "63d50e00d738324e9537248c",
+    "tier": "1",
+    "title": "Raynare",
+    "source": "High School DxD",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/50860614b5cce600b87f2cdf6fdb6efad163137b65da6b86f240337be8d3a01b.png"
+  },
+  {
+    "id": "63d50e00d738324e95372488",
+    "tier": "2",
+    "title": "Nami",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/2131b187ff02c4ebd42f1e8f459fd7233aae6aa137f6b5057eea9082e1664b1c.png"
+  },
+  {
+    "id": "63d50e00d738324e95372484",
+    "tier": "1",
+    "title": "Hashirama Senju",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/30531f194d07b4176b38b1197b54a02aa1e5a5cc7a9277d9a26e01f972ad7975.png"
+  },
+  {
+    "id": "63d50e00d738324e95372480",
+    "tier": "1",
+    "title": "Kanade Amou",
+    "source": "Symphogear",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/223a1bc224ba942bc154fe01c891537bea9212a81d2622f2da1b22c5963ef195.png"
+  },
+  {
+    "id": "63d50e00d738324e9537247c",
+    "tier": "1",
+    "title": "Kagome Higurashi",
+    "source": "Inuyasha",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/b7f9b30b96c5dcdf461376825663defefe309fca2c750b8220c7d539345177d3.png"
+  },
+  {
+    "id": "63d50e00d738324e95372478",
+    "tier": "1",
+    "title": "Hibiki Ganaha",
+    "source": "The Idolm@ster",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/4dab484f243422cbf036cc971216879abb78cbbcf35eafcdfdb11f10c6b66a50.png"
+  },
+  {
+    "id": "63d50e00d738324e95372474",
+    "tier": "1",
+    "title": "Mihawk Dracule",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/c194694e8f40c1e874f5cfc9ae616659f6fa92d417ba6800336ad77f9fecfd5c.png"
+  },
+  {
+    "id": "63d50e00d738324e95372470",
+    "tier": "2",
+    "title": "Tony Tony Chopper",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/6199876d035ba115af9bdcb732eefa65d6bb9db036c57132086a83c367b38192.png"
+  },
+  {
+    "id": "63d50e00d738324e9537246c",
+    "tier": "2",
+    "title": "Charlotte Linlin",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/c0ff0c74cae57d77613b70c50726a259cd34aaa51a6a2bedcd8dcf80161e50c2.png"
+  },
+  {
+    "id": "63d50e00d738324e95372468",
+    "tier": "2",
+    "title": "Monkey D. Luffy",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/db3900f6fce6a6a19e6187583f279b14f81a80fcf7d2f23bb79757fb74062e5f.png"
+  },
+  {
+    "id": "63d50e00d738324e95372464",
+    "tier": "3",
+    "title": "Howan",
+    "source": "Show By Rock!!",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/15bcc26ec90b21dd6b840f45a5de0f4308c81b28bde0cd947da1e98cc8b2fe3f.png"
+  },
+  {
+    "id": "63d50e00d738324e9537245c",
+    "tier": "5",
+    "title": "Ran Mitake",
+    "source": "BanG Dream!",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/754f727e5d5e06862c81c66c87d6376c8d7022f768ee6a4a75a539d8f786d1ce.png"
+  },
+  {
+    "id": "63d50e00d738324e95372458",
+    "tier": "5",
+    "title": "Yuzuru Fushimi",
+    "source": "Ensemble Stars!",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/27235ef2207de7aa44bef440de74b81cee716020235f4fa8a7a02019c27e7eba.png"
+  },
+  {
+    "id": "63d50e00d738324e95372454",
+    "tier": "5",
+    "title": "Kanna Kamui",
+    "source": "Miss Kobayashi's Dragon Maid",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/c21743f79e93a9ec1226c9bbd9fb5283da523c402edef6527ad7de127ce55d05.png"
+  },
+  {
+    "id": "63d50e00d738324e95372450",
+    "tier": "1",
+    "title": "Yugao Uzuki",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/66dccc38bfa050f9bb92abf030349e0a06f3748a10011c3c1cccbc2f4182cae5.png"
+  },
+  {
+    "id": "63d50e00d738324e95372448",
+    "tier": "2",
+    "title": "Tsubasa Kazanari",
+    "source": "Symphogear",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/7a00dc6a1e48389ba66336a479ea0b939994187796eb1b14079e8ead97f51804.png"
+  },
+  {
+    "id": "63d50e00d738324e95372444",
+    "tier": "3",
+    "title": "Mion Sonozaki",
+    "source": "Higurashi no Naku Koro ni",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/b7e67662dd6e19aaea17d672390273652a3bdba880305b0bbd8cb3adbdae0d0c.png"
+  },
+  {
+    "id": "63d50e00d738324e95372440",
+    "tier": "2",
+    "title": "Atsushi Nakajima",
+    "source": "Bungou Stray Dogs",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/39178eb192e38265a57e8ed71bbc9a9c67de0f0b33b828cbae808f5a09d71fcf.png"
+  },
+  {
+    "id": "63d50e00d738324e9537243c",
+    "tier": "2",
+    "title": "Sortiliena Serlut",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/2242dd1d59863bd3fb260cd4c4c12a9ef32469fb3354d12cb3b98096dfdcbc6f.png"
+  },
+  {
+    "id": "63d50e00d738324e95372438",
+    "tier": "1",
+    "title": "Misumi Ikaruga",
+    "source": "A3!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/cff57adbba3ea7e198cc7987922cf5aab45f2134ab3585d9a0e9b4634ec13529.png"
+  },
+  {
+    "id": "63d50e00d738324e95372434",
+    "tier": "3",
+    "title": "Delmin",
+    "source": "Show By Rock!!",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/889a9bc26295fc3f21532535fb053ae2be91fbd98e4ff686d9482ecbb64d96f3.png"
+  },
+  {
+    "id": "63d50e00d738324e9537242c",
+    "tier": "3",
+    "title": "Rika Furude",
+    "source": "Higurashi no Naku Koro ni",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/c5b3812f1bf3be3d9c875264ad5e78635c9c2b78cbb3cef1a5dbadfb91128dcd.png"
+  },
+  {
+    "id": "63d50e00d738324e95372424",
+    "tier": "2",
+    "title": "Mai Sakurajima",
+    "source": "Aobuta",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/f6f80539459a8987887dd673cd0559f5cfc286f9a40b1f20b01438d8509d0590.png"
+  },
+  {
+    "id": "63d50e00d738324e95372420",
+    "tier": "3",
+    "title": "Rikka and Sanae",
+    "source": "Chuunibyou demo Koi ga Shitai!",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/df0175194382d9fc8f0879f9b8eb0696c012fc585bb4bcde05c371b51122f669.png"
+  },
+  {
+    "id": "63d50e00d738324e9537241c",
+    "tier": "3",
+    "title": "You Watanabe",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/5fde7d6c9a324cdddcf5ea3787189faa26713891170b1dff436706c2b639fd80.png"
+  },
+  {
+    "id": "63d50e00d738324e95372418",
+    "tier": "3",
+    "title": "Hokuto Hidaka",
+    "source": "Ensemble Stars!",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/f42fc899a6f928871a7a2d82e579ae60240ec3f11d93eee53d681acb1a69496f.png"
+  },
+  {
+    "id": "63d50e00d738324e95372414",
+    "tier": "3",
+    "title": "Hiyori Tomoe",
+    "source": "Ensemble Stars!",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/60dd3abec4b59ecf837d3fb3d6931206497a0a973933c3e6985381bc6c20185c.png"
+  },
+  {
+    "id": "63d50e00d738324e95372410",
+    "tier": "2",
+    "title": "Mary Saotome",
+    "source": "Kakegurui",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1716f7b1f93f3a81b4a6c6361f90d5380633c1e57b234cafb11e6aac490e0b5e.png"
+  },
+  {
+    "id": "63d50e00d738324e9537240c",
+    "tier": "5",
+    "title": "Sakura Matou",
+    "source": "Fate",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/576c75e09945deed147fc62a62fdc482a60fd026bb2b0d5638da8c263fe8d76a.png"
+  },
+  {
+    "id": "63d50e00d738324e95372408",
+    "tier": "2",
+    "title": "Yukino Yukinoshita",
+    "source": "My Teen Romantic Comedy SNAFU",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/84a6e31a4ce74198e6a9096ecf256a2f2852c63e97ff96169760afcf91ec7d64.png"
+  },
+  {
+    "id": "63d50e00d738324e95372400",
+    "tier": "2",
+    "title": "Elianna Bernstein",
+    "source": "Bibliophile Princess",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/10f19cd1e0a41a1b73238ef011a67e63bc8ab41bbec73ec782d4efd7fd5dd90d.png"
+  },
+  {
+    "id": "63d50e00d738324e953723fc",
+    "tier": "2",
+    "title": "Koneko Toujou",
+    "source": "High School DxD",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1d1b04f7c9c694ed8e0d615a9fc2508333ba17de45899d15d97faf317f7a667b.png"
+  },
+  {
+    "id": "63d50e00d738324e953723f8",
+    "tier": "3",
+    "title": "A",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/7e762c31cf2c46dd2e69bf16795e225fcff55b561538558f65c3b5d2ac94d8ab.png"
+  },
+  {
+    "id": "63d50e00d738324e953723f0",
+    "tier": "2",
+    "title": "Momoko Suou",
+    "source": "The Idolm@ster",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/34825d80d5a73ea333be908d2d4e082ff192bce62d864da6e4938e646a0aa633.png"
+  },
+  {
+    "id": "63d50e00d738324e953723ec",
+    "tier": "5",
+    "title": "Hana Uzaki",
+    "source": "Uzaki-chan Wants to Hang Out!",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/810fc5fa9f91b4786a7387f4e315dfa8cab82fdf3dab027728c41ffb7c0bfece.png"
+  },
+  {
+    "id": "63d50e00d738324e953723e8",
+    "tier": "5",
+    "title": "Kyouko Hori",
+    "source": "Horimiya",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/58e54aad2ec4c6e90f57792867f31d26ca8bb4cf7154ed7443ed46d884a488d0.png"
+  },
+  {
+    "id": "63d50e00d738324e953723e4",
+    "tier": "3",
+    "title": "Hestia",
+    "source": "DanMachi",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/47379b9cb225ff8f33809ca0bc8e75fb6ecb9209f8df0130e64039d62433380e.png"
+  },
+  {
+    "id": "63d50e00d738324e953723e0",
+    "tier": "2",
+    "title": "Tengen Uzui",
+    "source": "Demon Slayer",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/ab151799a211c09fd2a168dd4003276a8324b7da08c370437cf8c7b65f4e3835.png"
+  },
+  {
+    "id": "63d50e00d738324e953723d8",
+    "tier": "1",
+    "title": "Cyan Sung-Sun",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/34e76612b224bca1228d4ad53ad81d8470d902971d488a276bd609970240cbd7.png"
+  },
+  {
+    "id": "63d50e00d738324e953723d4",
+    "tier": "5",
+    "title": "Giyu Tomioka",
+    "source": "Demon Slayer",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/413c5ab1854938ffcc4f646c35a14f2fe65b02c5ba4cd55ccc4017b012043d0d.png"
+  },
+  {
+    "id": "63d50e00d738324e953723cc",
+    "tier": "1",
+    "title": "Phil",
+    "source": "The Promised Neverland",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1f5bf6edfbd5f70685e23eabbb6d4d5b27ad16e7cc3f2fe05c34a50e6c69338a.png"
+  },
+  {
+    "id": "63d50e00d738324e953723c4",
+    "tier": "1",
+    "title": "Taichi Nanao",
+    "source": "A3!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/3343de5a8b96962c613d9b41d51fbfd00262a6e7e537be0aa536296aa51c2011.png"
+  },
+  {
+    "id": "63d50e00d738324e953723c0",
+    "tier": "1",
+    "title": "Naofumi Iwatani",
+    "source": "The Rising of the Shield Hero",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/ae8b7d4938ee3da70fb86ed5aef14c9f1861c2762d18fcabd709bf58e997a0c9.png"
+  },
+  {
+    "id": "63d50e00d738324e953723bc",
+    "tier": "3",
+    "title": "Kokomi Asahina",
+    "source": "Battle Girl High School",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/90cfff70b8f062a6ca52089b57f95b3db4bf5f5c958b258a617b118807b1e0ba.png"
+  },
+  {
+    "id": "63d50e00d738324e953723b8",
+    "tier": "3",
+    "title": "Sadone",
+    "source": "Battle Girl High School",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/bc295e7bdcad88321aa2f469354032f3eba31d021d6f547cfda50e00fd593a11.png"
+  },
+  {
+    "id": "63d50e00d738324e953723b4",
+    "tier": "2",
+    "title": "Sanji Vinsmoke",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/ca11ad7e56ad3ad36432c0e6c9a63413679210776b947bd392e5b09bdbabb4dd.png"
+  },
+  {
+    "id": "63d50e00d738324e953723b0",
+    "tier": "5",
+    "title": "Yuuko Ichihara",
+    "source": "xxxHOLiC",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/53c9b318ecdf4c92b37d6312ac94a60f671efb22f0c59f9d479a5b885a1325c3.png"
+  },
+  {
+    "id": "63d50e00d738324e953723ac",
+    "tier": "1",
+    "title": "Julia",
+    "source": "Cowboy Bebop",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/53d4f89f09589ff22ba672ac3e1af221e6f04ce93fcfbc51c11bc57faad3db76.png"
+  },
+  {
+    "id": "63d50e00d738324e953723a8",
+    "tier": "3",
+    "title": "Illumi Zoldyck",
+    "source": "Hunter x Hunter",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/7216b9eb0570f7ed587163483634461602ac8ea175c3df50b58a5e15995720cb.png"
+  },
+  {
+    "id": "63d50e00d738324e953723a4",
+    "tier": "3",
+    "title": "Neferpitou",
+    "source": "Hunter x Hunter",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/0edc942bad84e5683b82b4b46895c9bbe532dd8d7522983e943c0aaf32795aff.png"
+  },
+  {
+    "id": "63d50e00d738324e953723a0",
+    "tier": "1",
+    "title": "Sonic",
+    "source": "One Punch Man",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/aba73c17dc865ef8185032fbf7edfdd60347f6e52c74247bc1a0d3ee871ba073.png"
+  },
+  {
+    "id": "63d50e00d738324e9537239c",
+    "tier": "2",
+    "title": "Itsuki Nakano",
+    "source": "The Quintessential Quintuplets",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/b4f9bf7c08a349c6942f1657fa5b4b45cb9dc273685ed0a0056f0db409cc1ae7.png"
+  },
+  {
+    "id": "63d50e00d738324e95372398",
+    "tier": "2",
+    "title": "Konan",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/17a13b9a2ffad8664babb8838c8605f81a38935bfc342a1825ab7119831ee04a.png"
+  },
+  {
+    "id": "63d50e00d738324e95372390",
+    "tier": "2",
+    "title": "Nico Robin",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/e7232fe97f6cddd82fb5edc1c6db69034d7a0c4849401b51819d9adb18320191.png"
+  },
+  {
+    "id": "63d50e00d738324e9537238c",
+    "tier": "2",
+    "title": "Trafalgar D. Water Law",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/d7f65e5c0bccbd2ec51edc92935412da7840c7aa8e14c1740b7f0c1e728bc852.png"
+  },
+  {
+    "id": "63d50e00d738324e95372388",
+    "tier": "3",
+    "title": "Nelliel Tu Odelschwanck",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/17f4f47b9ae7c13833e51501fdf6c9018854b6a8f99426158d95bb4fac4a3e1f.png"
+  },
+  {
+    "id": "63d50e00d738324e9537237c",
+    "tier": "3",
+    "title": "Biscuit Krueger",
+    "source": "Hunter x Hunter",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/2ffa8b0fa563a1fff27c030801910626171e60b1b5d0a6ae0aa2d4705e328dc8.png"
+  },
+  {
+    "id": "63d50e00d738324e95372378",
+    "tier": "3",
+    "title": "Machi Komachine",
+    "source": "Hunter x Hunter",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/4a3874c852a9a45cc3b7bd8be04792e5018b90700c18493e18172bab39434ee2.png"
+  },
+  {
+    "id": "63d50e00d738324e95372374",
+    "tier": "4",
+    "title": "Mai Sakurajima",
+    "source": "Aobuta",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1fdbd16b84b2ee6571ec43ec8c31922497525ec5aa1a5f0b291f508d891862d8.png"
+  },
+  {
+    "id": "63d50e00d738324e95372370",
+    "tier": "1",
+    "title": "Chihaya Kisaragi",
+    "source": "The Idolm@ster",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/f446d4b37d394def486bc6d5bf2e9021f293a90f2af7d1d6e6f1d5351a6f3407.png"
+  },
+  {
+    "id": "63d50e00d738324e9537236c",
+    "tier": "3",
+    "title": "Mayuri Shiina",
+    "source": "Steins;Gate",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/812d7017dcefb173be785c716f255e01b9b24224931df0fb8c72eac579faf720.png"
+  },
+  {
+    "id": "63d50e00d738324e95372368",
+    "tier": "3",
+    "title": "Jibril",
+    "source": "No Game No Life",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/41ee2925d61008f31f7aaf8e0b316e710bcbcec54ee7471eca8cbbac6f8cd4c4.png"
+  },
+  {
+    "id": "63d50e00d738324e95372360",
+    "tier": "3",
+    "title": "Alluka Zoldyck",
+    "source": "Hunter x Hunter",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/d2cd561e47f7babce3043a80a3ece22bee2e48b246a280ee502b9d3acb30794a.png"
+  },
+  {
+    "id": "63d50e00d738324e95372358",
+    "tier": "1",
+    "title": "Azuma Yukishiro",
+    "source": "A3!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/7a51958b3b2914dfacde83a431750aaa04c9dc3b9ed9438ece5eda486d2b1e35.png"
+  },
+  {
+    "id": "63d50e00d738324e95372354",
+    "tier": "3",
+    "title": "Mukuro Hoshimiya",
+    "source": "Date A Live",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/05dd8748df22cecaa51833414c0e4ac511ad577bd12bddf5a7936aa4fac56e25.png"
+  },
+  {
+    "id": "63d50e00d738324e95372350",
+    "tier": "1",
+    "title": "Mutsuki Kururugi",
+    "source": "I★Chu: Halfway Through the Idol",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/7f4408f822796f9f5a8b15d778d4cfb196a66a2b028c336e388e29a4f9d9b528.png"
+  },
+  {
+    "id": "63d50e00d738324e9537234c",
+    "tier": "1",
+    "title": "Kurenai Yuhi",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/60336ae40f98f27cd17cbb3bddd7ccd161c42122a6cba893c64bce6e6405e141.png"
+  },
+  {
+    "id": "63d50e00d738324e95372348",
+    "tier": "5",
+    "title": "Yamato",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/6f00cf3225644140145c7e98f88f799f281d0615df0676cc442336aecb0d3726.png"
+  },
+  {
+    "id": "63d50e00d738324e9537233c",
+    "tier": "5",
+    "title": "Rin Itoshi",
+    "source": "Blue Lock",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1019d560f385f1222494379b90ba34afeae5b59f861d10bf94726f9b6b65fa1a.png"
+  },
+  {
+    "id": "63d50e00d738324e95372334",
+    "tier": "3",
+    "title": "Ruby Kurosawa",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/c8617bd5c43da992dbda648c57a87afbc246c5d93085ad56641904870f812030.png"
+  },
+  {
+    "id": "63d50e00d738324e95372330",
+    "tier": "3",
+    "title": "Yuuko Ichihara",
+    "source": "xxxHOLiC",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/a6071e225ae94438a71cfc163ceae0dc786e5af1f65ed99242abaa34e68b1755.png"
+  },
+  {
+    "id": "63d50e00d738324e9537232c",
+    "tier": "3",
+    "title": "Dia Kurosawa",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/6eabc6a3c000f8d1b48cb88519f3b2f003fd4f1d07176dfd2e9ce75740917cd6.png"
+  },
+  {
+    "id": "63d50e00d738324e95372324",
+    "tier": "2",
+    "title": "Brook",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/404c2fd0f83adceedc7f735158f70a4678d48d1db1772a4486d63fdb5b8832ed.png"
+  },
+  {
+    "id": "63d50e00d738324e95372320",
+    "tier": "2",
+    "title": "Roronoa Zoro",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/6142c8a3dfaf225b53326abca3fc2c0e0d64fda97c84ab65bb94f2a76858f2e8.png"
+  },
+  {
+    "id": "63d50e00d738324e9537231c",
+    "tier": "2",
+    "title": "Usopp",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/7ead5816c7b3a458d983cc96d6391754017397b91012514c667defb8774b47c1.png"
+  },
+  {
+    "id": "63d50e00d738324e95372314",
+    "tier": "3",
+    "title": "Shizuku Murasaki",
+    "source": "Hunter x Hunter",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/cd76f537b9129221c2eda663b8f64f333b3fcd25163d1f8cca75b0dc898f1f3d.png"
+  },
+  {
+    "id": "63d50e00d738324e95372310",
+    "tier": "3",
+    "title": "Pakunoda",
+    "source": "Hunter x Hunter",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/168c5bbc1037c1b587fdcd510c60db1a75f98b5c5321b98353a85e8a9f0c8c22.png"
+  },
+  {
+    "id": "63d50e00d738324e9537230c",
+    "tier": "3",
+    "title": "Feitan Portor",
+    "source": "Hunter x Hunter",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/2162f27c12ae7e49f98958ee6b729bde10d4e5bcda679fb66202186b6e6937b8.png"
+  },
+  {
+    "id": "63d50e00d738324e95372308",
+    "tier": "5",
+    "title": "Keqing",
+    "source": "Genshin Impact",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/b792fba9493901da2ef38957950cde94672dff80ede24194a6e1f0afb9d69c7c.png"
+  },
+  {
+    "id": "63d50e00d738324e95372304",
+    "tier": "1",
+    "title": "Shunsui Kyoraku",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/dc29ed79373cc407dbe55a2ac7b02ca5abd939ef430cbed983eb382e3c033b68.png"
+  },
+  {
+    "id": "63d50e00d738324e953722fc",
+    "tier": "1",
+    "title": "Ryunosuke Akutagawa",
+    "source": "Bungou Stray Dogs",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/cb5e0c409440aab538252cd71d21ca2e79b419ebba8c72bb0395287313c590da.png"
+  },
+  {
+    "id": "63d50e00d738324e953722f8",
+    "tier": "1",
+    "title": "Kouyou Ozaki",
+    "source": "Bungou Stray Dogs",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/35648675e587ccbd44f4204079e9d48a4b29ac1a871fb8194cfbfa249857c444.png"
+  },
+  {
+    "id": "63d50e00d738324e953722f4",
+    "tier": "2",
+    "title": "Ichigo Kurosaki",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/921775ff1682d3b0a2b89b8e9295dae2d835bb5882b33342f6e28ae4289c2490.png"
+  },
+  {
+    "id": "63d50e00d738324e953722f0",
+    "tier": "1",
+    "title": "Tier Harribel",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/7ab5959b7472c22b148fc70ceacce31ca49577a12a092effd9b42ded322a45fa.png"
+  },
+  {
+    "id": "63d50e00d738324e953722ec",
+    "tier": "1",
+    "title": "Nanao Ise",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/fa62e0cd593cad02f7c75d04cfa6250aa17eedc89adb145938f833638694e34b.png"
+  },
+  {
+    "id": "63d50e00d738324e953722e8",
+    "tier": "5",
+    "title": "Hak Son and Yona",
+    "source": "Yona of the Dawn",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/68ef62a948cce6d51227337cbac0a697419f7ef2ab97ba19779b102794cfdf2c.png"
+  },
+  {
+    "id": "63d50e00d738324e953722e0",
+    "tier": "1",
+    "title": "Juushirou Ukitake",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/9683c53b9338301b54d152d2818f8604d4597e6b2674151ea8fc98559eff22b3.png"
+  },
+  {
+    "id": "63d50e00d738324e953722dc",
+    "tier": "1",
+    "title": "Tatsumaki",
+    "source": "One Punch Man",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/70e7d4d5aaff7466c7f567492af98587f15f9c044018cb9f58be6e234719a45f.png"
+  },
+  {
+    "id": "63d50e00d738324e953722d8",
+    "tier": "2",
+    "title": "Raiha Uesugi",
+    "source": "The Quintessential Quintuplets",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/e6d787b4906fad7d3fd589294c729ac4520bf46e579395e7f7e9086c30a93713.png"
+  },
+  {
+    "id": "63d50e00d738324e953722d0",
+    "tier": "1",
+    "title": "Raphtalia",
+    "source": "The Rising of the Shield Hero",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/87e337a4cd4bd4fa5424584b74e452c635a79d8f95eff167c3ea9320a0d57c84.png"
+  },
+  {
+    "id": "63d50e00d738324e953722cc",
+    "tier": "1",
+    "title": "Shikamaru Nara",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/2c7883d5e68116b9e8f8f984b4ff0dd2b00f361063fdfc918239e2a4eaa4df10.png"
+  },
+  {
+    "id": "63d50e00d738324e953722c8",
+    "tier": "2",
+    "title": "Eren Yeager",
+    "source": "Attack on Titan",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/6146e984d2d1605a70bfaba1538e1d49a3269ab29dda5f76edf7bf036b2fa519.png"
+  },
+  {
+    "id": "63d50e00d738324e953722c4",
+    "tier": "1",
+    "title": "Shinobu Kocho",
+    "source": "Demon Slayer",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/4674f38a197d5ac93f711f628571f64f1a7913d45855a35377b957a7cda5ed5e.png"
+  },
+  {
+    "id": "63d50e00d738324e953722bc",
+    "tier": "4",
+    "title": "Shiki Ryougi",
+    "source": "Kara no Kyoukai",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/b59ac80fe20c7ee559ba8116f2cdda2c45c7622148648d9873a1738a32a1288f.png"
+  },
+  {
+    "id": "63d50e00d738324e953722b8",
+    "tier": "1",
+    "title": "Mami Futami",
+    "source": "The Idolm@ster",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/28af3918c10d2d23ecbb7f91d27961e0df8b701a0518a55d9fa952defaf80b2a.png"
+  },
+  {
+    "id": "63d50e00d738324e953722b4",
+    "tier": "2",
+    "title": "Chloe von Einzbern",
+    "source": "Fate",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/b864336a805114b932c715c3fad308a3be1f2e627a5018df8225f493acf28ddb.png"
+  },
+  {
+    "id": "63d50e00d738324e953722b0",
+    "tier": "4",
+    "title": "Rory Mercury",
+    "source": "Gate",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1b7ae3effc72df6837a18ef3a150dc1e9492cd23ec6b79ba158d7445c0d3b020.png"
+  },
+  {
+    "id": "63d50e00d738324e953722ac",
+    "tier": "4",
+    "title": "Utaha Kasumigaoka",
+    "source": "Saenai Heroine no Sodatekata",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/4ad9bbcea79904d511b112f241e396bc00ee51793682efa8e14fece3db88fb68.png"
+  },
+  {
+    "id": "63d50e00d738324e953722a4",
+    "tier": "1",
+    "title": "Shisui Uchiha",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/8838147efc27c6dcec938a8902f8fa73727d6db5ce8dc93c14c9e12eb10c7ed6.png"
+  },
+  {
+    "id": "63d50e00d738324e953722a0",
+    "tier": "3",
+    "title": "Sortiliena Serlut",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/0ae8a5d13938fe0e117f7f23da5b33efa0b0850d828befbb18d1c626d84e1ca5.png"
+  },
+  {
+    "id": "63d50e00d738324e9537229c",
+    "tier": "3",
+    "title": "Tiese Shtolienen",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/5f036300296c568881e790e87f74a71274264221a26bfd4373c5d9fd5496b840.png"
+  },
+  {
+    "id": "63d50e00d738324e95372298",
+    "tier": "3",
+    "title": "Ronye Arabel",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/98bebe1a1fee87edcb939473673fdd80beb349639bf9240b87a6b47199ac3d0e.png"
+  },
+  {
+    "id": "63d50e00d738324e95372294",
+    "tier": "2",
+    "title": "Iroha Isshiki",
+    "source": "My Teen Romantic Comedy SNAFU",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/652084f07e28f01ba656eda98b2afa030f5ee6f280054dd04bbedd16e20e04a5.png"
+  },
+  {
+    "id": "63d50e00d738324e95372290",
+    "tier": "3",
+    "title": "Nico Yazawa",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/2a75707fc579d23d6f2bc9f6e3e1618c6a4f74bfcf97b35c99a8aed8b54c73f2.png"
+  },
+  {
+    "id": "63d50e00d738324e9537228c",
+    "tier": "2",
+    "title": "Takagi",
+    "source": "Karakai Jozu no Takagi-san",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/8dada5e067b8dddac2574ea9f93357672d01db7c6e695fe00d8b667e4d447085.png"
+  },
+  {
+    "id": "63d50e00d738324e95372278",
+    "tier": "1",
+    "title": "Ritsuko Akizuki",
+    "source": "The Idolm@ster",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/9239046aa03e83194502453b4ce705d574908f42d2d1c4b19edf15b4f5dddc51.png"
+  },
+  {
+    "id": "63d50e00d738324e95372268",
+    "tier": "4",
+    "title": "Noa Fukushima",
+    "source": "D4DJ: First Mix",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/913456fd6777d1c458a3448d6cf694c5267b1a54a9dc94dcb311ea64971f142b.png"
+  },
+  {
+    "id": "63d50e00d738324e95372264",
+    "tier": "4",
+    "title": "Haise Sasaki",
+    "source": "Tokyo Ghoul",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/a39996c9843fe203a6160c41ba3f6801adef30f15dc7a592faab59f53755ccc1.png"
+  },
+  {
+    "id": "63d50e00d738324e95372260",
+    "tier": "3",
+    "title": "Mayumi Saegusa",
+    "source": "The Irregular at Magic High School",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/d6d4f6f7cce476e6c7856081e82c7b6b70f9bd83d949de08e76579e2b237cdd5.png"
+  },
+  {
+    "id": "63d50e00d738324e9537225c",
+    "tier": "3",
+    "title": "Mari Watanabe",
+    "source": "The Irregular at Magic High School",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/4fd58bfe755a5ed86a484ace916afa4e902df7368446b672e91d1c63fdaff511.png"
+  },
+  {
+    "id": "63d50e00d738324e95372258",
+    "tier": "3",
+    "title": "Erika Chiba",
+    "source": "The Irregular at Magic High School",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/373a3fceb4c03593d1256561d2bdc6547717a0a20bcd5aa86e6ea7a7d11b3fb8.png"
+  },
+  {
+    "id": "63d50e00d738324e95372254",
+    "tier": "3",
+    "title": "Angelina Kudou Shields",
+    "source": "The Irregular at Magic High School",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/5dd3bff10758c02af2a0e6c1bf84b6756a94765e577dbcb3f4b0c0cf4152185f.png"
+  },
+  {
+    "id": "63d50e00d738324e95372250",
+    "tier": "3",
+    "title": "Sodachi Oikura",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/3bb5f97e931f5a761f613da3ae14e094a25025938ba1c1eebcba6c0effa5301a.png"
+  },
+  {
+    "id": "63d50e00d738324e95372248",
+    "tier": "4",
+    "title": "Retoree",
+    "source": "Show By Rock!!",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/a9979b58c99ff2d3df18a5e33f6b8bfbba5c77b85c4d30f6fd8c74fbc93ce684.png"
+  },
+  {
+    "id": "63d50e00d738324e95372244",
+    "tier": "2",
+    "title": "Sai",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/72fb0e37bdc31a7e98d3190558343213c63bb870380ba01cdea32c3e87306d7d.png"
+  },
+  {
+    "id": "63d50e00d738324e9537223c",
+    "tier": "4",
+    "title": "Haruka Narumi",
+    "source": "Battle Girl High School",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/d07ee87cfcb404e49ed3ec3962f8c62027ba1c3debee1e9f9a3068faca4142af.png"
+  },
+  {
+    "id": "63d50e00d738324e95372238",
+    "tier": "2",
+    "title": "Pochita",
+    "source": "Chainsaw Man",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1479eafd8d59aace4f9e7f219cfbde823bccf92411e818f10f4eb5021b35eee3.png"
+  },
+  {
+    "id": "63d50e00d738324e95372230",
+    "tier": "4",
+    "title": "Rinku Aimoto",
+    "source": "D4DJ: First Mix",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/c229ab683bffa154b087bce1d0fbc3611913d77a7e5f45b979ab7a5a8d80d3de.png"
+  },
+  {
+    "id": "63d50e00d738324e9537222c",
+    "tier": "1",
+    "title": "Shino Aburame",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/9f4c6aaf9e6e8902ed805f25aab513706886ede5c3766305fe39964f7037c52d.png"
+  },
+  {
+    "id": "63d50e00d738324e95372228",
+    "tier": "2",
+    "title": "Kaga",
+    "source": "KanColle",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/fe15560b4ed9ee850e608dd5927d8aacc0501155096039e5fee54c4600f86299.png"
+  },
+  {
+    "id": "63d50e00d738324e95372224",
+    "tier": "2",
+    "title": "Tenten",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/a4b2b7ea5f76bd3e7fe0e6d193bcee5663a1032b0c13c6a2097074fd8ccaeb7c.png"
+  },
+  {
+    "id": "63d50e00d738324e95372220",
+    "tier": "4",
+    "title": "Yotsugi Ononoki",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/96d8381863a55cf6a3fb37c16149b7784aa8e0a6a5e528a2832f63f457ed6499.png"
+  },
+  {
+    "id": "63d50e00d738324e9537221c",
+    "tier": "2",
+    "title": "Kyoka Jiro",
+    "source": "My Hero Academia",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/bb9a8fdc74e345e1a9970c0d1f8e9440b5b7db9c73e6550556db1c336f48f98f.png"
+  },
+  {
+    "id": "63d50e00d738324e95372218",
+    "tier": "2",
+    "title": "Neji Hyuuga",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/9e9ff753a7b2d01c0d71a16fbeb248dafdb35b451e1ddb2d951d813b4bf58229.png"
+  },
+  {
+    "id": "63d50e00d738324e95372214",
+    "tier": "4",
+    "title": "Kirito",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/9be6c1b23d8d15ba52d40d7980cd7e6d9e6376baefebe5c07b18cfff7ee37604.png"
+  },
+  {
+    "id": "63d50e00d738324e95372210",
+    "tier": "4",
+    "title": "Sachi",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/4ccc05fe9600084609ed9067b758b682df5bf397aa8da6e1cae39f0e5fe15e07.png"
+  },
+  {
+    "id": "63d50e00d738324e9537220c",
+    "tier": "1",
+    "title": "Ino Yamanaka",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/05ee6955731add7ace0c19cc7aea7d807215b36690441369055b9598df9e80a8.png"
+  },
+  {
+    "id": "63d50e00d738324e95372204",
+    "tier": "4",
+    "title": "Yayoi Takatsuki",
+    "source": "The Idolm@ster",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/492ebf41092fcc8eaf99fdb8d6bcdfdba4d33fc8fb3da0571c4adef8d4bbf839.png"
+  },
+  {
+    "id": "63d50e00d738324e95372200",
+    "tier": "3",
+    "title": "Nadeko Sengoku",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/cf9cd43afa24ce99f54108f137e9332e19ba58a27945eb77dd672142f4bd0ac6.png"
+  },
+  {
+    "id": "63d50e00d738324e953721fc",
+    "tier": "2",
+    "title": "Mahiru Shiina",
+    "source": "Otonari no Tenshi-sama",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/f7f138baeeec53541997de6282e8c499f2fdf60c3860d820e1b7c2522d0e64e8.png"
+  },
+  {
+    "id": "63d50e00d738324e953721f8",
+    "tier": "4",
+    "title": "Eugeo",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/7a8c6ecf1583d6b354def9dfac1649e6d96835706aeaefbd648db79246019afb.png"
+  },
+  {
+    "id": "63d50e00d738324e953721f4",
+    "tier": "4",
+    "title": "Ougi Oshino",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/e5e965de70ea6fbb72f2d9842de15c79d6ec9c9fb55c3a0f2f8bebb3281032d9.png"
+  },
+  {
+    "id": "63d50e00d738324e953721f0",
+    "tier": "4",
+    "title": "Rem",
+    "source": "Re:Zero",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/218c97f4edc14585ee81b50f08d2afd0a59f3ecef7bbdc29beb70de80df9b9c3.png"
+  },
+  {
+    "id": "63d50e00d738324e953721ec",
+    "tier": "1",
+    "title": "Nagato",
+    "source": "KanColle",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/d246904c72fc0ddb273591d17d739e2dd97661f2cdcbcf6e55fda699b328ec6e.png"
+  },
+  {
+    "id": "63d50e00d738324e953721e4",
+    "tier": "4",
+    "title": "Chino and Cocoa",
+    "source": "Is The Order A Rabbit?",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/a499cb3749c5ab5d3800756a9f4bbaa9744ac3215e8d2fe16913aaa2f715922a.png"
+  },
+  {
+    "id": "63d50e00d738324e953721e0",
+    "tier": "2",
+    "title": "Ochako Uraraka",
+    "source": "My Hero Academia",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/72c1c4bcdad0584b9b85654ff8ca0fe8ad71811ba1783c25e27ecc28185f5e62.png"
+  },
+  {
+    "id": "63d50e00d738324e953721dc",
+    "tier": "2",
+    "title": "Cocoa Hoto",
+    "source": "Is The Order A Rabbit?",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/19da216f2f3e15268879c9d83984881f6962842b7eb7c0704a054ab6490d5c0f.png"
+  },
+  {
+    "id": "63d50e00d738324e953721d8",
+    "tier": "2",
+    "title": "Chino Kafuu",
+    "source": "Is The Order A Rabbit?",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/9ae19badd7f4792e8d976d55dcc0520bbcd2887c7d8f7c039b11030143814075.png"
+  },
+  {
+    "id": "63d50e00d738324e953721d4",
+    "tier": "4",
+    "title": "Armin Arlert",
+    "source": "Attack on Titan",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/3757745927c7f007ee3c1b6587c010258d855f41f4ab03731f9146ca9358e07b.png"
+  },
+  {
+    "id": "63d50e00d738324e953721d0",
+    "tier": "4",
+    "title": "Eren Yeager",
+    "source": "Attack on Titan",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/25ecb2e63eee638434ae595d14fbafbb0d8b0f8b1f2afe6d41260dc7bf53941a.png"
+  },
+  {
+    "id": "63d50e00d738324e953721c8",
+    "tier": "1",
+    "title": "Asuma Sarutobi",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/e0842bea4fd4b87cb1d35e6126222e7360814783a5e763b223c88f96862b8792.png"
+  },
+  {
+    "id": "63d50e00d738324e953721c4",
+    "tier": "4",
+    "title": "Takemichi Hanagaki",
+    "source": "Tokyo Revengers",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/cdb9bb7bb052ead7e514d77476fa2c0d6a6c3218c37af54f387fc33efb3b38a0.png"
+  },
+  {
+    "id": "63d50e00d738324e953721bc",
+    "tier": "4",
+    "title": "Kanade Tachibana",
+    "source": "Angel Beats!",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/f158366d84124925d1fee07e8c53609f77f903edc77abaf963c4ec9e1dd29e88.png"
+  },
+  {
+    "id": "63d50e00d738324e953721b8",
+    "tier": "4",
+    "title": "Sinon",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/49fc4b24d354ffda9b306a61084f01447464d8e33ba8b1fb76c369e56fd84615.png"
+  },
+  {
+    "id": "63d50e00d738324e953721b4",
+    "tier": "2",
+    "title": "Yuuki Konno",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/b8cba82e94baf04c95eb07eb1be1decd6fc92e786e87cf984f7907bc434ff3a5.png"
+  },
+  {
+    "id": "63d50e00d738324e953721b0",
+    "tier": "4",
+    "title": "Nina Ichihara",
+    "source": "The Idolm@ster",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/b14aa30509fe66a9ccdfa1dd0e1902c9fc22766146e58eb4b9fe92f3ca53c696.png"
+  },
+  {
+    "id": "63d50e00d738324e953721ac",
+    "tier": "5",
+    "title": "Yatora Yaguchi",
+    "source": "Blue Period",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/92680c135ee5aecddc8ce20962f161c96a141052279aa673c2ef442920599a54.png"
+  },
+  {
+    "id": "63d50e00d738324e953721a8",
+    "tier": "4",
+    "title": "Mikasa Ackerman",
+    "source": "Attack on Titan",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/d9c8ee7335849cea21380b8ca4ce39a65fd433a6e491e6db9abd9eba06c4fba0.png"
+  },
+  {
+    "id": "63d50e00d738324e953721a4",
+    "tier": "2",
+    "title": "Levi Ackerman",
+    "source": "Attack on Titan",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/6d1117a454f33e90cfca88f4649b2425a2dc991c6595d19f1fe6275fc4fd073e.png"
+  },
+  {
+    "id": "63d50e00d738324e953721a0",
+    "tier": "4",
+    "title": "Levi Ackerman",
+    "source": "Attack on Titan",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/44ddc1721e31adfbf47871f1c45b77065c25094cc0eca193438db7cf5d780457.png"
+  },
+  {
+    "id": "63d50e00d738324e9537219b",
+    "tier": "4",
+    "title": "Cinder Fall",
+    "source": "RWBY",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/f962019379ccbde005608b80a995adc6785e089577f460deaaa603bb7d72612a.png"
+  },
+  {
+    "id": "63d50e00d738324e95372193",
+    "tier": "4",
+    "title": "Hinata Minami",
+    "source": "Battle Girl High School",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/871b5f94fd679925ac7cbf17cbb4f5e19118d569b1e7726e85a584ea52de47dc.png"
+  },
+  {
+    "id": "63d50e00d738324e9537218f",
+    "tier": "4",
+    "title": "Cyan Hijirikawa",
+    "source": "Show By Rock!!",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/86def8dec4be2cfd51d781e63cf022f812ec30801d33b4661e56b6312a40e9a5.png"
+  },
+  {
+    "id": "63d50e00d738324e9537218b",
+    "tier": "2",
+    "title": "Rukia Kuchiki",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/bcf659f6b9b34459b2313b43d114a18ec6d094f321f475fd56c5d9ac6f1b83af.png"
+  },
+  {
+    "id": "63d50e00d738324e95372187",
+    "tier": "2",
+    "title": "Tashigi",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/bfb5d3db1a61b118b68bd7e7bb48a7a5fe84193fdd0513a18b531590c1da8747.png"
+  },
+  {
+    "id": "63d50e00d738324e95372183",
+    "tier": "5",
+    "title": "Mahiru Shiina",
+    "source": "Otonari no Tenshi-sama",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/b62df5dda73b0ac3dd5a7278b9185308ce9663af69e90b35ac5cba82e5804927.png"
+  },
+  {
+    "id": "63d50e00d738324e9537217f",
+    "tier": "4",
+    "title": "Kukuru and Fuuka",
+    "source": "Shiroi Suna no Aquatope",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/a3a1a736ac79a3c230672301f51e0ffceb1cecbe89e92b7360c202133485d2c8.png"
+  },
+  {
+    "id": "63d50e00d738324e9537217b",
+    "tier": "4",
+    "title": "Renge Serizawa",
+    "source": "Battle Girl High School",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/0e3b4ec166fe4b225ae74a32b5863661ef2556a8abc1d4b4f96505862a4b5eeb.png"
+  },
+  {
+    "id": "63d50e00d738324e95372177",
+    "tier": "4",
+    "title": "Tsubasa Hanekawa",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/794cf3f604e9d689a583e1af7d559079097b4161eff0af6fd6f64abf8ce479c5.png"
+  },
+  {
+    "id": "63d50e00d738324e95372173",
+    "tier": "4",
+    "title": "Asuna Yuuki",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/33607588b5deaf5c57a13a7570841a6937b80170f3ced78ab4581e0a6c468fb6.png"
+  },
+  {
+    "id": "63d50e00d738324e9537216f",
+    "tier": "4",
+    "title": "Ryuusui Nanami",
+    "source": "Dr. Stone",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/9cefc27204d3c0a24e1a601fe50b791e4bd27b5b0dfb66e87b17a3e805a4ff23.png"
+  },
+  {
+    "id": "63d50e00d738324e9537216b",
+    "tier": "4",
+    "title": "Manjiro Sano",
+    "source": "Tokyo Revengers",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/29383536ce8d9fa8d5c46ee8f5e3cd51ec78384eb22560e11f124e79633510ad.png"
+  },
+  {
+    "id": "63d50e00d738324e95372167",
+    "tier": "4",
+    "title": "Kazutora Hanemiya",
+    "source": "Tokyo Revengers",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/49091adbdee7f7db8d81571e49da85c32a0a37ad928abca11d3d75eabd3e1358.png"
+  },
+  {
+    "id": "63d50e00d738324e95372163",
+    "tier": "4",
+    "title": "Kanan Matsuura",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/ef67eb809259aced1165cb2ed64311b3151557ee5413e0607a0c506852a28a77.png"
+  },
+  {
+    "id": "63d50e00d738324e9537215f",
+    "tier": "3",
+    "title": "Nagi and Reo",
+    "source": "Blue Lock",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/10da08d7166cb3023e71d6b66f633f70ca184920fe0e160bfbe4a9f8481088de.png"
+  },
+  {
+    "id": "63d50e00d738324e9537215b",
+    "tier": "4",
+    "title": "Alice Zuberg",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/26b1c21ce0add6a66ecb640548cf30dd7fbe47b2e4d5816d7c17e228f4d28539.png"
+  },
+  {
+    "id": "63d50e00d738324e95372157",
+    "tier": "4",
+    "title": "Hitagi Senjougahara",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/10b9aeb4aec9499eaefac148bd6d37e13b692f97934c9b829bc9f12c8afa0f4e.png"
+  },
+  {
+    "id": "63d50e00d738324e9537214f",
+    "tier": "4",
+    "title": "Karen Araragi",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/ca6139134392fcdfb9c2054e7f80d206b0262c85d63e09a26708401f85364609.png"
+  },
+  {
+    "id": "63d50e00d738324e9537214b",
+    "tier": "2",
+    "title": "Ichika Nakano",
+    "source": "The Quintessential Quintuplets",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/8ae541665eb0c70bdd74dadcbefcc675c93d174d868307baa1843662ef67a525.png"
+  },
+  {
+    "id": "63d50e00d738324e95372147",
+    "tier": "4",
+    "title": "Tsukihi Araragi",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/70a42f2e366d300332c4e9afef5a8958aff77e3b0c2f5db37b5911159bdd3725.png"
+  },
+  {
+    "id": "63d50e00d738324e95372143",
+    "tier": "2",
+    "title": "Nino Nakano",
+    "source": "The Quintessential Quintuplets",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/462cbf11eb3a5b0d96c965cbf9d778b5865635704c5223f3b0b2858e90559fdc.png"
+  },
+  {
+    "id": "63d50e00d738324e9537213f",
+    "tier": "2",
+    "title": "Miku Nakano",
+    "source": "The Quintessential Quintuplets",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/bc9ee48610f870da4cc4129c2a18835b5558111d0becab73108f598f6a403d56.png"
+  },
+  {
+    "id": "63d50e00d738324e9537213b",
+    "tier": "4",
+    "title": "Reine Murasame",
+    "source": "Date A Live",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/ca33888646857537ae07045ab0d8873fd792444350fee76f4b3d344c80b429db.png"
+  },
+  {
+    "id": "63d50e00d738324e95372137",
+    "tier": "2",
+    "title": "Juuzou Suzuya",
+    "source": "Tokyo Ghoul",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/b597c7dfe389e8039b6c3ffcf39eeeeae644d8d88c9b9108a35bec336e08ec88.png"
+  },
+  {
+    "id": "63d50e00d738324e95372133",
+    "tier": "4",
+    "title": "Kurumi Tokisaki",
+    "source": "Date A Live",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/fffa28293d5d604bfe0da0d7614f4e937cc6fa38ca2fc00b7c674fd256ccecad.png"
+  },
+  {
+    "id": "63d50e00d738324e9537212f",
+    "tier": "4",
+    "title": "Subaru Akehoshi",
+    "source": "Ensemble Stars!",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/b6786f6451bdd18d789945b09e69d45023ecbb31d3538d534f29c6e1879a2b20.png"
+  },
+  {
+    "id": "63d50e00d738324e95372127",
+    "tier": "4",
+    "title": "Ichigo Kurosaki",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/81e89d03570ab6393f32846a50179a93d1e6247adf0a3472de4075d5f2cf5b48.png"
+  },
+  {
+    "id": "63d50e00d738324e95372123",
+    "tier": "3",
+    "title": "Miku Maekawa",
+    "source": "The Idolm@ster",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/13f96663821ac3b36826bd8fb97cb75f6ba3399d27c21d8af0003d66228c9452.png"
+  },
+  {
+    "id": "63d50e00d738324e9537211f",
+    "tier": "4",
+    "title": "Ranko Kanzaki",
+    "source": "The Idolm@ster",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/42036742f704b873b6e83582900c2aaa93c06db6227987501e207b965e306ad8.png"
+  },
+  {
+    "id": "63d50e00d738324e9537211b",
+    "tier": "4",
+    "title": "Mahiru Shiina",
+    "source": "Otonari no Tenshi-sama",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/8316422468014974fe6674280636dda76f050a2d6b2241bfd835fecf3b53e8f1.png"
+  },
+  {
+    "id": "63d50e00d738324e9537210f",
+    "tier": "1",
+    "title": "Nnoitra Gilga",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/f0eee0a346b18695962eba9340ee74c45aa3007a4ea6ef65ef9fdf4c72e25218.png"
+  },
+  {
+    "id": "63d50dffd738324e95372107",
+    "tier": "2",
+    "title": "Tsukihi Araragi",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1612762608681.png"
+  },
+  {
+    "id": "63c64d3f3bb8004f1287c997",
+    "tier": "1",
+    "title": "Satoko Houjou",
+    "source": "Higurashi no Naku Koro ni",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/4fe1f32492bb7909786fb3f82cce80f79f518884c6ab925657c8053c9fcf5369.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ed0f",
+    "tier": "2",
+    "title": "Todomatsu Matsuno",
+    "source": "Osomatsu-san",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1612762622153.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ed0d",
+    "tier": "2",
+    "title": "Jyushimatsu Matsuno",
+    "source": "Osomatsu-san",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1612760933316.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ed0b",
+    "tier": "2",
+    "title": "Ichimatsu Matsuno",
+    "source": "Osomatsu-san",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1612760140777.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ed09",
+    "tier": "2",
+    "title": "Choromatsu Matsuno",
+    "source": "Osomatsu-san",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1612759955878.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ed07",
+    "tier": "2",
+    "title": "Osomatsu Matsuno",
+    "source": "Osomatsu-san",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1612759248886.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ed05",
+    "tier": "4",
+    "title": "Yukino Yukinoshita",
+    "source": "My Teen Romantic Comedy SNAFU",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1612729494337.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ed01",
+    "tier": "6",
+    "title": "Shinobu Kocho",
+    "source": "Demon Slayer",
+    "image": "https://cdn.shoob.gg/images/eventcards/6/1612989594854.gif"
+  },
+  {
+    "id": "6028629a5d6aab342976ecfb",
+    "tier": "6",
+    "title": "C.C.",
+    "source": "Code Geass",
+    "image": "https://cdn.shoob.gg/images/eventcards/6/1612754272128.gif"
+  },
+  {
+    "id": "6028629a5d6aab342976ecf7",
+    "tier": "2",
+    "title": "Ritsu Sohma",
+    "source": "Fruits Basket",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1612760038963.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecf1",
+    "tier": "2",
+    "title": "Yui",
+    "source": "Heroines Run the Show",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1612742884901.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecef",
+    "tier": "1",
+    "title": "Alice Zuberg",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1612741866273.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eced",
+    "tier": "1",
+    "title": "Rui Tachibana",
+    "source": "Domestic Girlfriend",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1612739781736.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eceb",
+    "tier": "3",
+    "title": "Nobara Kugisaki",
+    "source": "Jujutsu Kaisen",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1612728076321.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ece9",
+    "tier": "4",
+    "title": "Touka Kirishima",
+    "source": "Tokyo Ghoul",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1612727586967.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ece7",
+    "tier": "1",
+    "title": "Kyouka Izumi",
+    "source": "Bungou Stray Dogs",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1612727744228.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ece5",
+    "tier": "1",
+    "title": "Chuuya Nakahara",
+    "source": "Bungou Stray Dogs",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1612727540702.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ece1",
+    "tier": "4",
+    "title": "Natsuki Subaru",
+    "source": "Re:Zero",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1612569861280.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecd7",
+    "tier": "2",
+    "title": "Kagome Higurashi",
+    "source": "Inuyasha",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1612225478612.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecd3",
+    "tier": "3",
+    "title": "Yata and Fushimi",
+    "source": "K Project",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1612220787130.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eccb",
+    "tier": "3",
+    "title": "Kaguya Shinomiya",
+    "source": "Kaguya-sama: Love is War",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1611881781635.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecc7",
+    "tier": "1",
+    "title": "Chiyo Sakura",
+    "source": "Gekkan Shoujo Nozaki-kun",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1611935988234.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecc5",
+    "tier": "2",
+    "title": "Yukio Okumura",
+    "source": "Ao no Exorcist",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611881644281.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecc3",
+    "tier": "3",
+    "title": "Takagi",
+    "source": "Karakai Jozu no Takagi-san",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1611785392279.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecbf",
+    "tier": "3",
+    "title": "Noiz",
+    "source": "Dramatical Murder",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1611729119869.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecbd",
+    "tier": "3",
+    "title": "Clear",
+    "source": "Dramatical Murder",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1611727495358.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecbb",
+    "tier": "2",
+    "title": "Eve Wakamiya",
+    "source": "BanG Dream!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611633659756.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecb9",
+    "tier": "2",
+    "title": "Yotsuba Nakano",
+    "source": "The Quintessential Quintuplets",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611935277932.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecb7",
+    "tier": "6",
+    "title": "Miku Nakano",
+    "source": "The Quintessential Quintuplets",
+    "image": "https://cdn.shoob.gg/images/eventcards/6/1611617652685.gif"
+  },
+  {
+    "id": "6028629a5d6aab342976ecb1",
+    "tier": "1",
+    "title": "Emilia",
+    "source": "Lapis Re:LiGHTs",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1611522353164.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecaf",
+    "tier": "2",
+    "title": "Rem and Ram",
+    "source": "Re:Zero",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611522394231.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecad",
+    "tier": "2",
+    "title": "Chizuru Ichinose",
+    "source": "Kanojo Okarishimasu",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611582279667.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ecab",
+    "tier": "2",
+    "title": "Arisa Ichigaya",
+    "source": "BanG Dream!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611477486732.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eca7",
+    "tier": "1",
+    "title": "Mirajane Strauss",
+    "source": "Fairy Tail",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1611514467875.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eca5",
+    "tier": "4",
+    "title": "Rio Futaba",
+    "source": "Aobuta",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1611492274056.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eca3",
+    "tier": "5",
+    "title": "Erina Nakiri",
+    "source": "Food Wars!",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1611364302279.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eca1",
+    "tier": "1",
+    "title": "Hana Uzaki",
+    "source": "Uzaki-chan Wants to Hang Out!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1611469836480.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec9f",
+    "tier": "3",
+    "title": "Kanna Kamui",
+    "source": "Miss Kobayashi's Dragon Maid",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/85f51159f3eb215ecfd21df41ff72698d527fff17a4d69617fb989dcd733bba0.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec9d",
+    "tier": "1",
+    "title": "Yuji Itadori",
+    "source": "Jujutsu Kaisen",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1611274898954.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec9b",
+    "tier": "2",
+    "title": "Kakashi Hatake",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611295500195.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec99",
+    "tier": "2",
+    "title": "Yato and Hiyori",
+    "source": "Noragami",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611457335641.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec97",
+    "tier": "2",
+    "title": "Illyasviel von Einzbern",
+    "source": "Fate",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611456320554.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec93",
+    "tier": "2",
+    "title": "Yukina Minato",
+    "source": "BanG Dream!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611132617852.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec91",
+    "tier": "4",
+    "title": "Hitagi Senjougahara",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1611447001482.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec8d",
+    "tier": "2",
+    "title": "Kiruya Momochi",
+    "source": "Princess Connect! Re:Dive",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611420798655.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec8b",
+    "tier": "4",
+    "title": "Leafa",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1611108416018.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec89",
+    "tier": "1",
+    "title": "Misaki Nakahara",
+    "source": "Welcome to the NHK",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1611267060060.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec81",
+    "tier": "1",
+    "title": "Haruhi Fujioka",
+    "source": "Ouran High School Host Club",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1611253120374.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec7f",
+    "tier": "2",
+    "title": "Kokoro Natsume",
+    "source": "Princess Connect! Re: Dive",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611177022469.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec75",
+    "tier": "5",
+    "title": "Chika Fujiwara",
+    "source": "Kaguya-sama: Love is War",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1611332689152.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec73",
+    "tier": "1",
+    "title": "Sakura Matou",
+    "source": "Fate",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1611099025061.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec6f",
+    "tier": "5",
+    "title": "Wendy Marvell",
+    "source": "Fairy Tail",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1610996174223.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec6b",
+    "tier": "5",
+    "title": "Tsukasa Yuzaki",
+    "source": "Tonikaku Kawaii",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1611038938571.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec67",
+    "tier": "2",
+    "title": "Shana",
+    "source": "Shakugan No Shana",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1611041421666.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec65",
+    "tier": "2",
+    "title": "Ran Mitake",
+    "source": "BanG Dream!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1610937717014.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec63",
+    "tier": "2",
+    "title": "Mayuri Kurotsuchi",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1610937000056.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec61",
+    "tier": "3",
+    "title": "Sosuke Aizen",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1610937092661.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec5f",
+    "tier": "3",
+    "title": "Grimmjow Jaegerjaquez",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1610937144364.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec5d",
+    "tier": "3",
+    "title": "Hanataro Yamada",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1610937200954.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec5b",
+    "tier": "5",
+    "title": "Neko Fujinomiya",
+    "source": "Masamune-kun no Revenge",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1610749310794.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec55",
+    "tier": "1",
+    "title": "Merlin",
+    "source": "The Seven Deadly Sins",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1610722749700.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec53",
+    "tier": "3",
+    "title": "Sinon",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1610684985706.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec4f",
+    "tier": "2",
+    "title": "Rimi Ushigome",
+    "source": "BanG Dream!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1610790840780.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec4d",
+    "tier": "3",
+    "title": "Lisbeth",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1610727440068.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec4b",
+    "tier": "3",
+    "title": "Hatsuharu Sohma",
+    "source": "Fruits Basket",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1610684051226.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec47",
+    "tier": "4",
+    "title": "Miia",
+    "source": "Monster Musume no Iru Nichijou",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1610611923350.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec43",
+    "tier": "2",
+    "title": "Gojo Satoru",
+    "source": "Jujutsu Kaisen",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1610468899025.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec41",
+    "tier": "2",
+    "title": "Saaya Yamabuki",
+    "source": "BanG Dream!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1610458578612.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec3f",
+    "tier": "2",
+    "title": "Kotori Minami",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1610446526181.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec3d",
+    "tier": "2",
+    "title": "Megumi Fushiguro",
+    "source": "Jujutsu Kaisen",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1610405670681.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec39",
+    "tier": "3",
+    "title": "Karma Akabane",
+    "source": "Assassination Classroom",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1610390688920.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec35",
+    "tier": "1",
+    "title": "Lucia Nanami",
+    "source": "Mermaid Melody Pichi Pichi Pitch",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1610279721090.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec2f",
+    "tier": "1",
+    "title": "Carrot",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1610415054723.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec2d",
+    "tier": "5",
+    "title": "Yue",
+    "source": "Lapis Re:LiGHTs",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1610420326659.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec27",
+    "tier": "1",
+    "title": "Yui Hirasawa",
+    "source": "K-On!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1610280785257.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec25",
+    "tier": "4",
+    "title": "Izuku Midoriya",
+    "source": "My Hero Academia",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1610336928472.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec1f",
+    "tier": "4",
+    "title": "Mayoi Hachikuji",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1610451811198.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec19",
+    "tier": "1",
+    "title": "Kamui",
+    "source": "Gintama",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1610375945759.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec17",
+    "tier": "2",
+    "title": "Tsumugi Kotobuki",
+    "source": "K-On!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1610337821309.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec15",
+    "tier": "2",
+    "title": "Mio Akiyama",
+    "source": "K-On!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1610337746768.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec13",
+    "tier": "4",
+    "title": "Yui and Yukino",
+    "source": "My Teen Romantic Comedy SNAFU",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1610344298642.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec0f",
+    "tier": "1",
+    "title": "Ritsu Tainaka",
+    "source": "K-On!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1610280391967.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec0d",
+    "tier": "1",
+    "title": "Ui Hirasawa",
+    "source": "K-On!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1610280680418.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec0b",
+    "tier": "2",
+    "title": "Koyomi Araragi",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1610278724457.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec09",
+    "tier": "1",
+    "title": "Azusa Nakano",
+    "source": "K-On!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1610280250488.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec07",
+    "tier": "5",
+    "title": "Shinoa Hiiragi",
+    "source": "Owari no Seraph",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1610192883989.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec05",
+    "tier": "5",
+    "title": "Mumei",
+    "source": "Kabaneri of the Iron Fortress",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1610160389965.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec03",
+    "tier": "3",
+    "title": "Suruga Kanbaru",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1610149155524.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ec01",
+    "tier": "3",
+    "title": "Yuuki Konno",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1610117913586.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebff",
+    "tier": "2",
+    "title": "Kokoro Tsurumaki",
+    "source": "BanG Dream!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1610111074906.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebfd",
+    "tier": "5",
+    "title": "Alice Zuberg",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1609981931598.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebfb",
+    "tier": "5",
+    "title": "Mash Kyrielight",
+    "source": "Fate",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1609972715749.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebf9",
+    "tier": "5",
+    "title": "Morgiana",
+    "source": "Magi",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1609988141527.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebf7",
+    "tier": "5",
+    "title": "Gilgamesh",
+    "source": "Fate",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1610161284116.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebf3",
+    "tier": "1",
+    "title": "Kasumi Toyama",
+    "source": "BanG Dream!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609885349880.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebf1",
+    "tier": "4",
+    "title": "Ochako Uraraka",
+    "source": "My Hero Academia",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1609871718107.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebed",
+    "tier": "4",
+    "title": "Momo Yaoyorozu",
+    "source": "My Hero Academia",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1609862795321.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebeb",
+    "tier": "3",
+    "title": "Denki Kaminari",
+    "source": "My Hero Academia",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1609862692696.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebe9",
+    "tier": "1",
+    "title": "Kagura",
+    "source": "Azumanga Daioh",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609862475641.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebe5",
+    "tier": "2",
+    "title": "Izuku Midoriya",
+    "source": "My Hero Academia",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1609803298185.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebe3",
+    "tier": "1",
+    "title": "Dia Kurosawa",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609822445769.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebe1",
+    "tier": "1",
+    "title": "Monkey D. Luffy",
+    "source": "One Piece",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609805300138.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebd9",
+    "tier": "1",
+    "title": "Yuki Nagato",
+    "source": "The Melancholy of Haruhi Suzumiya",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609787428418.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebd3",
+    "tier": "1",
+    "title": "Mikoto Misaka",
+    "source": "A Certain Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609778575421.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebd1",
+    "tier": "1",
+    "title": "Usagi Tsukino",
+    "source": "Sailor Moon",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609774632062.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebcf",
+    "tier": "1",
+    "title": "Shizune",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609772933069.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebcd",
+    "tier": "1",
+    "title": "Ruby Rose",
+    "source": "RWBY",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609756564484.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebc7",
+    "tier": "1",
+    "title": "Umi Sonoda",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609753767073.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebc3",
+    "tier": "2",
+    "title": "Hiyoko Saionji",
+    "source": "Danganronpa",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1609749253612.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebc1",
+    "tier": "2",
+    "title": "Itachi Uchiha",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1609749490452.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebbf",
+    "tier": "1",
+    "title": "Melida Angel",
+    "source": "Assassins Pride",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609567390960.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebbd",
+    "tier": "1",
+    "title": "Asuna Yuuki",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609377847692.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebb9",
+    "tier": "5",
+    "title": "Nene Yashiro",
+    "source": "Toilet-Bound Hanako-kun",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1609447490458.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebb7",
+    "tier": "1",
+    "title": "Tiese Shtolienen",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609320178945.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebb5",
+    "tier": "1",
+    "title": "Ronye Arabel",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609320088619.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebb3",
+    "tier": "1",
+    "title": "Hanabi Hyuga",
+    "source": "Boruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609381130387.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebb1",
+    "tier": "2",
+    "title": "Tsunade",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1609307956038.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebaf",
+    "tier": "1",
+    "title": "Sasuke Uchiha",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609304799382.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebad",
+    "tier": "1",
+    "title": "Sakura Haruno",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609304688697.png"
+  },
+  {
+    "id": "6028629a5d6aab342976ebab",
+    "tier": "5",
+    "title": "Revy",
+    "source": "Black Lagoon",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1609422053424.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eba9",
+    "tier": "1",
+    "title": "Mikasa Ackerman",
+    "source": "Attack on Titan",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609388254944.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eba7",
+    "tier": "1",
+    "title": "Rio Futaba",
+    "source": "Aobuta",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609378351155.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eba5",
+    "tier": "2",
+    "title": "Vanilla",
+    "source": "Kaiba",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1609309859100.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eba3",
+    "tier": "4",
+    "title": "Ram",
+    "source": "Re:Zero",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1609308974076.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eba1",
+    "tier": "1",
+    "title": "Haruhi Suzumiya",
+    "source": "The Melancholy of Haruhi Suzumiya",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609306429627.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eb9f",
+    "tier": "1",
+    "title": "Naruto Uzumaki",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609302093082.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eb9d",
+    "tier": "2",
+    "title": "Satou and Shio",
+    "source": "Happy Sugar Life",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1609305995065.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eb9b",
+    "tier": "1",
+    "title": "Kushina Uzumaki",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609297281249.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eb99",
+    "tier": "1",
+    "title": "Kiba and Akamaru",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1609297075413.png"
+  },
+  {
+    "id": "6028629a5d6aab342976eb97",
+    "tier": "2",
+    "title": "Eugeo",
+    "source": "Sword Art Online",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1609313296815.png"
+  },
+  {
+    "id": "5e2ceca05bcc415f264e36f7",
+    "tier": "6",
+    "title": "Raphtalia",
+    "source": "The Rising of the Shield Hero",
+    "image": "https://cdn.shoob.gg/images/eventcards/6/1580002464958.gif"
+  },
+  {
+    "id": "5e2cec05aaa0215ac2bb3795",
+    "tier": "3",
+    "title": "Zero Two",
+    "source": "Darling in the Franxx",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580002309261.png"
+  },
+  {
+    "id": "5e2cebf2266cc75aa9c1e420",
+    "tier": "5",
+    "title": "Nezuko Kamado",
+    "source": "Demon Slayer",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1580002290272.png"
+  },
+  {
+    "id": "5e2cebe0aaa0215ac2bb3794",
+    "tier": "3",
+    "title": "Yuki Nagato",
+    "source": "The Melancholy of Haruhi Suzumiya",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580002272017.png"
+  },
+  {
+    "id": "5e2cebd3266cc75aa9c1e41f",
+    "tier": "5",
+    "title": "Aoba",
+    "source": "Beastars",
+    "image": "https://cdn.shoob.gg/images/eventcards/5/1580002259690.png"
+  },
+  {
+    "id": "5e2ceb8eee8008546b582cfc",
+    "tier": "3",
+    "title": "Yoshino Himekawa",
+    "source": "Date A Live",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580002190805.png"
+  },
+  {
+    "id": "5e2ceb68ee8008546b582cfb",
+    "tier": "3",
+    "title": "Weiss Schnee",
+    "source": "RWBY",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580002152181.png"
+  },
+  {
+    "id": "5e2ceaba1bd4d152e1a95677",
+    "tier": "3",
+    "title": "Takashi Natsume",
+    "source": "Natsume Yuujinchou",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580001978330.png"
+  },
+  {
+    "id": "5e2cea8b6a88fa4efb5d0743",
+    "tier": "3",
+    "title": "Shiki Ryougi",
+    "source": "Kara no Kyoukai",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580001931072.png"
+  },
+  {
+    "id": "5e2ce9e95144a57706e92a54",
+    "tier": "3",
+    "title": "Ruby Rose",
+    "source": "RWBY",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580001769431.png"
+  },
+  {
+    "id": "5e2ce9c05144a57706e92a38",
+    "tier": "3",
+    "title": "Rem and Ram",
+    "source": "Re:Zero",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580001728042.png"
+  },
+  {
+    "id": "5e2ce9925144a57706e92a2c",
+    "tier": "3",
+    "title": "Rei Sakuma",
+    "source": "Ensemble Stars!",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580001682205.png"
+  },
+  {
+    "id": "5e2ce9685144a57706e92a21",
+    "tier": "3",
+    "title": "Nero",
+    "source": "Black Clover",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580001640500.png"
+  },
+  {
+    "id": "5e2ce9465144a57706e92a14",
+    "tier": "3",
+    "title": "Nanami and Tomoe",
+    "source": "Kamisama Hajimemashita",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580001606926.png"
+  },
+  {
+    "id": "5e2ce8b15144a57706e92a04",
+    "tier": "3",
+    "title": "Kurumi Tokisaki",
+    "source": "Date A Live",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580001457143.png"
+  },
+  {
+    "id": "5e2ce8974a0ba176effd1639",
+    "tier": "4",
+    "title": "Umi Sonoda",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1580001431703.png"
+  },
+  {
+    "id": "5e2ce86c5144a57706e929ec",
+    "tier": "3",
+    "title": "Kanade Tachibana",
+    "source": "Angel Beats!",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580001388461.png"
+  },
+  {
+    "id": "5e2ce8055144a57706e929d2",
+    "tier": "3",
+    "title": "Asuka Langley",
+    "source": "Neon Genesis Evangelion",
+    "image": "https://cdn.shoob.gg/images/eventcards/3/1580001285947.png"
+  },
+  {
+    "id": "5e2ce7fe4a0ba176effd1634",
+    "tier": "4",
+    "title": "Karna",
+    "source": "Fate",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1580001278718.png"
+  },
+  {
+    "id": "5e2ce7e34a0ba176effd1633",
+    "tier": "4",
+    "title": "Kagura Mikazuchi",
+    "source": "Fairy Tail",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1580001251485.png"
+  },
+  {
+    "id": "5e2ce7c44a0ba176effd1632",
+    "tier": "4",
+    "title": "Fumino Furuhashi",
+    "source": "We Never Learn",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1580001220741.png"
+  },
+  {
+    "id": "5e2ce7b85144a57706e929b9",
+    "tier": "1",
+    "title": "Yuudachi",
+    "source": "KanColle",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580001208418.png"
+  },
+  {
+    "id": "5e2ce7a74a0ba176effd1631",
+    "tier": "4",
+    "title": "Emma",
+    "source": "The Magnificent Kotobuki",
+    "image": "https://cdn.shoob.gg/images/eventcards/4/1580001191103.png"
+  },
+  {
+    "id": "5e2ce76f5144a57706e929b1",
+    "tier": "1",
+    "title": "Umi Sonoda",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580001135556.png"
+  },
+  {
+    "id": "5e2ce7035144a57706e929aa",
+    "tier": "1",
+    "title": "Shoto Todoroki",
+    "source": "My Hero Academia",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580001027625.png"
+  },
+  {
+    "id": "5e2ce6f94a0ba176effd162b",
+    "tier": "2",
+    "title": "Subaru Akehoshi",
+    "source": "Ensemble Stars!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580001017869.png"
+  },
+  {
+    "id": "5e2ce6da4a0ba176effd162a",
+    "tier": "2",
+    "title": "Sakura Haruno",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000986612.png"
+  },
+  {
+    "id": "5e2ce6cb5144a57706e929a9",
+    "tier": "1",
+    "title": "Shinobu Oshino",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000971075.png"
+  },
+  {
+    "id": "5e2ce6bd4a0ba176effd1629",
+    "tier": "2",
+    "title": "Saki Nikaido",
+    "source": "Zombieland Saga",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000957472.png"
+  },
+  {
+    "id": "5e2ce69f5144a57706e929a8",
+    "tier": "1",
+    "title": "Shana",
+    "source": "Shakugan No Shana",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000927611.png"
+  },
+  {
+    "id": "5e2ce6964a0ba176effd1628",
+    "tier": "2",
+    "title": "Rikka Takanashi",
+    "source": "Chuunibyou demo Koi ga Shitai!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000918229.png"
+  },
+  {
+    "id": "5e2ce6774a0ba176effd1627",
+    "tier": "2",
+    "title": "Nowi",
+    "source": "Fire Emblem",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000887500.png"
+  },
+  {
+    "id": "5e2ce6715144a57706e929a7",
+    "tier": "1",
+    "title": "Seishirou Tsugumi",
+    "source": "Nisekoi",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000881875.png"
+  },
+  {
+    "id": "5e2ce65f4a0ba176effd1626",
+    "tier": "2",
+    "title": "Nico Yazawa",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000863900.png"
+  },
+  {
+    "id": "5e2ce6474a0ba176effd1624",
+    "tier": "2",
+    "title": "Mumei",
+    "source": "Kabaneri of the Iron Fortress",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000839778.png"
+  },
+  {
+    "id": "5e2ce6254a0ba176effd1623",
+    "tier": "2",
+    "title": "Mikasa Ackerman",
+    "source": "Attack on Titan",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000805197.png"
+  },
+  {
+    "id": "5e2ce5df5144a57706e9297b",
+    "tier": "1",
+    "title": "Rin Tohsaka",
+    "source": "Fate",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000735439.png"
+  },
+  {
+    "id": "5e2ce5b14a0ba176effd15ff",
+    "tier": "2",
+    "title": "Kusuo Saiki",
+    "source": "Saiki Kusuo No Psi Nan",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000689276.png"
+  },
+  {
+    "id": "5e2ce5975144a57706e92963",
+    "tier": "1",
+    "title": "Ran Mouri",
+    "source": "Detective Conan",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000663117.png"
+  },
+  {
+    "id": "5e2ce5904a0ba176effd15fe",
+    "tier": "2",
+    "title": "Kirino Kousaka",
+    "source": "Oreimo",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000656121.png"
+  },
+  {
+    "id": "5e2ce5705144a57706e92962",
+    "tier": "1",
+    "title": "Panty and Stocking",
+    "source": "Panty & Stocking",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000624647.png"
+  },
+  {
+    "id": "5e2ce5425144a57706e92955",
+    "tier": "1",
+    "title": "Osamu Dazai",
+    "source": "Bungou Stray Dogs",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000578090.png"
+  },
+  {
+    "id": "5e2ce53d4a0ba176effd15fb",
+    "tier": "2",
+    "title": "Hinata Hyuga",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000573143.png"
+  },
+  {
+    "id": "5e2ce5214a0ba176effd15fa",
+    "tier": "2",
+    "title": "Haruka Narumi",
+    "source": "Battle Girl High School",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000545702.png"
+  },
+  {
+    "id": "5e2ce5094a0ba176effd15f9",
+    "tier": "2",
+    "title": "Haruhi Suzumiya",
+    "source": "The Melancholy of Haruhi Suzumiya",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000521686.png"
+  },
+  {
+    "id": "5e2ce5005144a57706e92949",
+    "tier": "1",
+    "title": "Orihime Inoue",
+    "source": "Bleach",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000512562.png"
+  },
+  {
+    "id": "5e2ce4ef4a0ba176effd15f8",
+    "tier": "2",
+    "title": "Hana Shirosaki",
+    "source": "Wataten!",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000495344.png"
+  },
+  {
+    "id": "5e2ce4d85144a57706e9293d",
+    "tier": "1",
+    "title": "Neopolitan",
+    "source": "RWBY",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000472927.png"
+  },
+  {
+    "id": "5e2ce4885144a57706e9293b",
+    "tier": "1",
+    "title": "Mion Sonozaki",
+    "source": "Higurashi no Naku Koro ni",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000392142.png"
+  },
+  {
+    "id": "5e2ce47e4a0ba176effd15f5",
+    "tier": "2",
+    "title": "Black Hanekawa",
+    "source": "Monogatari Series",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000382559.png"
+  },
+  {
+    "id": "5e2ce4645144a57706e9293a",
+    "tier": "1",
+    "title": "Megumi Kato",
+    "source": "Saenai Heroine no Sodatekata",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000356103.png"
+  },
+  {
+    "id": "5e2ce4224a0ba176effd15f2",
+    "tier": "2",
+    "title": "2B",
+    "source": "NieR: Automata",
+    "image": "https://cdn.shoob.gg/images/eventcards/2/1580000290404.png"
+  },
+  {
+    "id": "5e2ce4115144a57706e92938",
+    "tier": "1",
+    "title": "Kushina Uzumaki",
+    "source": "Naruto",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000273011.png"
+  },
+  {
+    "id": "5e2ce38e5144a57706e92936",
+    "tier": "1",
+    "title": "Kouko Kaga",
+    "source": "Golden Time",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000142170.png"
+  },
+  {
+    "id": "5e2ce3605144a57706e92935",
+    "tier": "1",
+    "title": "Kanade",
+    "source": "Beast Tamer",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000096886.png"
+  },
+  {
+    "id": "5e2ce32b5144a57706e92934",
+    "tier": "1",
+    "title": "Kagura",
+    "source": "Azumanga Daioh",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1580000043364.png"
+  },
+  {
+    "id": "5e2ce2715144a57706e92914",
+    "tier": "1",
+    "title": "Holo",
+    "source": "Spice and Wolf",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1579999857146.png"
+  },
+  {
+    "id": "5e2ce2435144a57706e92903",
+    "tier": "1",
+    "title": "Eli Ayase",
+    "source": "Love Live!",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1579999811191.png"
+  },
+  {
+    "id": "5e2ce2175144a57706e92902",
+    "tier": "1",
+    "title": "Diane",
+    "source": "The Seven Deadly Sins",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1579999767343.png"
+  },
+  {
+    "id": "5e2ce1b45144a57706e928ef",
+    "tier": "1",
+    "title": "Chiya Ujimatsu",
+    "source": "Is The Order A Rabbit?",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1579999668131.png"
+  },
+  {
+    "id": "5e2ce1735144a57706e928ee",
+    "tier": "1",
+    "title": "Chitoge Kirisaki",
+    "source": "Nisekoi",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1579999603260.png"
+  },
+  {
+    "id": "5e2ce0f95144a57706e928d7",
+    "tier": "1",
+    "title": "Aoba Seragaki",
+    "source": "Dramatical Murder",
+    "image": "https://cdn.shoob.gg/images/eventcards/1/1579999481986.png"
+  }
+]
