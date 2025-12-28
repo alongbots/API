@@ -15,12 +15,38 @@ const cards = require('./api/cards.js');
 const randomcard = require('./api/randomcard.js');
 const cardtier = require('./api/cardtier.js');
 const cardid = require('./api/cardid.js');
+const chatgpt = require('./api/chatgpt.js');
+const cohere = require('./api/cohere.js');
+const copilot = require('./api/copilot.js');
+const enhance = require('./api/enhance.js');
+const facebook = require('./api/facebook.js');
+const igdl = require('./api/igdl.js');
+const imagen3 = require('./api/imagen3.js');
+const musicapple = require('./api/musicapple.js');
+const nsfw = require('./api/nsfw.js');
+const spotify = require('./api/spotify.js');
+const tiktok = require('./api/tiktok.js');
+const twitter = require('./api/twitter.js');
+const youtube = require('./api/youtube.js');
 
 // Wrap each handler into Express endpoints
 app.all('/cards', cards);
 app.all('/randomcard', randomcard);
 app.all('/cardtier', cardtier);
 app.all('/cardid', cardid);
+app.all('/chatgpt', chatgpt);
+app.all('/cohere', cohere);
+app.all('/copilot', copilot);
+app.all('/enhance', enhance);
+app.all('/facebook', facebook);
+app.all('/igdl', igdl);
+app.all('/imagen3', imagen3);
+app.all('/musicapple', musicapple);
+app.all('/nsfw', nsfw);
+app.all('/spotify', spotify);
+app.all('/tiktok', tiktok);
+app.all('/twitter', twitter);
+app.all('/youtube', youtube);
 
 // Define events
 const events = [
